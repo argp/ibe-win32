@@ -11,9 +11,8 @@ I have only tested it on a Windows XP machine.
 ## Compilation and installation
 
 In order to compile the Stanford IBE library for Windows 32 you need first
-to install the OpenSSL library and the GMP library.  The OpenSSL
-cryptographic toolkit can be found at:  http://www.openssl.org/.  My Windows
-32 port of GMP can be found at:  https://github.com/argp/gmp-win32.
+to install the [OpenSSL library](http://www.openssl.org/) and
+[my Windows port of the GMP library](https://github.com/argp/gmp-win32).
 
 After you have compiled and installed the above required libraries, copy the
 files provided here to the distribution directory of IBE 0.7.2 and overwrite
